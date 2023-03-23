@@ -5,7 +5,8 @@ import styles from '../styles/Home.module.css';
 import { ReactSearchAutocomplete } from 'react-search-autocomplete'
 
 // const API_KEY = 'ab3e1c2d0848448d89c7507562be692d';
-const API_KEY = '3dca850f427344f29dc7600879b19f1b'
+// const API_KEY = '3dca850f427344f29dc7600879b19f1b';
+const API_KEY = 'b9ad8a6a0a1546e4b27cacfa3b2777f8';
 const API_ENDPOINT = `https://newsapi.org/v2`;
 
 interface Article {
